@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://adresse.de.votre.site/categories/</loc>
+    <loc>https://g-dec.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://adresse.de.votre.site/tags/</loc>
+    <loc>https://g-dec.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://adresse.de.votre.site/</loc>
+    <loc>https://g-dec.github.io/</loc>
     <priority>0</priority>
   </url>
   
